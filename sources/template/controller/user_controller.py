@@ -1,5 +1,5 @@
-from sources.student_management.controller import base_controller
-from sources.student_management.model.user import User
+from sources.template.controller import base_controller
+from sources.template.model.user import User
 
 class UserController(base_controller.BaseController):
     def __init__(self, params):

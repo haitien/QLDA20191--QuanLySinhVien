@@ -1,4 +1,4 @@
-from sources.student_management.controller import base_controller
+from sources.template.controller import base_controller
 
 class SubjectController(base_controller.BaseController):
     def __init__(self):
