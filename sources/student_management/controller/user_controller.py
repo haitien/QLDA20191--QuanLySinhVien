@@ -1,13 +1,13 @@
-from model import User
-
+from sources.student_management.controller import base_controller
+from sources.student_management.model.user import User
 
 class UserController(base_controller.BaseController):
     def __init__(self, params):
         pass
         self.user_ = User(params)
 
-    def login(user_name, password):
-        if not _validate_login():
+    def login(self, user_name, password):
+        if not self._validate_login():
             return False
         return self.user_.login()
 
