@@ -1,0 +1,79 @@
+
+.xemhs-container {
+	min-height: 100%;
+	margin-left: 20px;
+	position: relative;
+}
+
+.xemhs-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.xemhs-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.xemhs-container .student-infor {
+	margin-left: 5px;
+}
+.xemhs-container .student-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.xemhs-container .student-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.xemhs-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.xemhs-container .text-field p {
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+.xemhs-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 5px;
+}
+
+
+.xemhs-container .personal-infor {
+	margin-left: 20%;
+}
+
+.xemhs-container .personal-infor .field-block-1 {
+	float:  left;
+	width: 50%;
+}
+
+.xemhs-container .button form, .xemhs-container .button a {
+	float: left;
+	width: 50%;
+}
+
+.xemhs-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	float: right;
+}
+.xemhs-container .del-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+}
+
+.xemhs-container .edit-button:hover, .xemhs-container .del-button:hover {
+	background-color: #00b3b3;
+}

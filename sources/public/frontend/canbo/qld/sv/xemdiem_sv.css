@@ -1,0 +1,87 @@
+.xemdiemsv-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.xemdiemsv-container .title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.xemdiemsv-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+
+.xemdiemsv-container .div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.xemdiemsv-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.xemdiemsv-container .div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.xemdiemsv-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.xemdiemsv-container .result-table {
+	margin-top: 25px;
+	margin-left: 5px;
+	width: 98%;
+	background-color: white;
+}
+
+.xemdiemsv-container .result-table th, .xemdiemsv-container .result-table td, table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.xemdiemsv-container .result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+}
+
+.xemdiemsv-container .short {
+	width: 9%;
+}
+
+.xemdiemsv-container .long {
+	width: 28%;
+}
+
+.xemdiemsv-container .result-table td {
+	text-align: center;
+	padding: 5px;
+}
+
+
+.xemdiemsv-container #cell-edit-1:hover, .xemdiemsv-container #cell-edit-2:hover {
+	background-color: #00b3b3;
+}
+
+.xemdiemsv-container #before-edit-1, .xemdiemsv-container #before-edit-2 {
+	margin: 0;
+
+}
+.xemdiemsv-container #edit-1, .xemdiemsv-container #edit-2 {
+	display: none;
+	width: 100%;
+}
+
+.xemdiemsv-container #button-1, .xemdiemsv-container #button-2 {
+	display: none;
+	margin-left: 25px;
+}

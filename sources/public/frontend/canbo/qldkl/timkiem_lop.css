@@ -1,0 +1,170 @@
+body {
+	width: 1100px;
+	color: #333;
+	margin: auto;
+	font-size: 20px;
+	line-height: 25px;
+}	
+
+.header {
+	background-color: #7B7AE0;
+	width: 100%;
+	height: 185px;
+	position: relative;
+}
+.image {
+	float: left !important;
+	clear: none;
+}
+
+.heading {
+	margin-left: 45px;
+	float: left;
+	font-size: 45px;
+}
+
+.name {
+	float: right;
+	margin-right: 10px;
+}
+.logout {
+	display: block;
+	overflow: visible;
+	margin-right: 5px;
+	float: right;
+}
+
+.content {
+	width: 100%;
+	background-color: #ccc;
+}
+
+.navbar {
+	width: 100%;
+	height: 40px;
+}
+
+.nav-menu {
+	width: 100%;
+	height: 100%;
+	display: flex;
+}
+
+.dropdown {
+	width: 25%;
+	height: 100%;
+}
+.dropdown-toggle {
+	width: 100%;
+	height: 100%;
+	border: 0.5px solid;
+	text-align: center;
+}
+.text-block {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	text-decoration: none;
+	position: relative;
+	border: 0.5px solid;
+	outline: none;
+	font-size: 20px;
+}
+
+.dropdown-list {
+	display: none;
+	height: 50px;
+	background-color: white;
+}
+
+.dropdown-link {
+	float: left;
+	width: 100%;
+	text-decoration: none;
+	color: black;
+	border-left: 0.5px solid;
+	border-right: 0.5px solid;
+	border-bottom: 0.5px solid;
+}
+
+.dropdown-link:hover {
+	background-color: #00b3b3;
+}
+
+button:hover  {
+	background-color: #00b3b3;
+}
+
+.dropdown:hover .dropdown-list {
+	display: block;
+}
+
+.container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.div-search {
+	text-align: center;
+	height: 35px;
+}
+.div-search form {
+	height: 100%;
+}
+
+.div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.div-search input::placeholder {
+	font-style: italic;
+}
+
+.div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.result-table {
+	margin-top: 25px;
+	margin-left: 10%;
+	width: 80%;
+	background-color: white;
+}
+
+.result-table th, .result-table td, table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+	width: 25%;
+}
+
+.result-table td {
+	text-align: center;
+	padding: 5px;
+	width: 25%;
+}
+
+.element tr:hover {
+	background-color: #00b3b3;
+}

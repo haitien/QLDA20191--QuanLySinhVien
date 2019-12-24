@@ -1,0 +1,98 @@
+.xemdiemlop-container {
+	min-height: 375px;
+	margin-left: 20px;
+
+}
+
+.xemdiemlop-container .title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.xemdiemlop-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+
+.xemdiemlop-container .div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.xemdiemlop-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.xemdiemlop-container .div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.xemdiemlop-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.xemdiemlop-container .result-table {
+	margin-top: 25px;
+	margin-left: 5px;
+	width: 98%;
+	background-color: white;
+}
+
+.xemdiemlop-container .result-table th, .result-table td, table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.xemdiemlop-container .result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+}
+
+.xemdiemlop-container .short {
+	width: 9%;
+}
+
+.xemdiemlop-container .long {
+	width: 37%;
+}
+
+.xemdiemlop-container .result-table td {
+	text-align: center;
+	padding: 5px;
+}
+
+
+.xemdiemlop-container #cell-edit-1:hover, .xemdiemlop-container #cell-edit-2:hover {
+	background-color: #00b3b3;
+}
+
+.xemdiemlop-container #before-edit-1, .xemdiemlop-container #before-edit-2 {
+	margin: 0;
+
+}
+.xemdiemlop-container #edit-1, .xemdiemlop-container #edit-2 {
+	display: none;
+	width: 100%;
+}
+
+.xemdiemlop-container .score-input {
+	text-align: center;
+}
+
+.xemdiemlop-container .score-input button {
+	margin-top: 20px;
+	margin-bottom: 10px; 
+	width: 80px;
+	height: 30px;
+}
+
+.xemdiemlop-container .score-input button::hover {
+	background-color: #00b3b3;
+}

@@ -1,0 +1,74 @@
+.timkiemsv-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+.timkiemsv-container .title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.timkiemsv-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+.timkiemsv-container .div-search form {
+	height: 100%;
+}
+
+.timkiemsv-container .div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.timkiemsv-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.timkiemsv-container .div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.timkiemsv-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.timkiemsv-container .result-table {
+	margin-top: 25px;
+	margin-left: 10%;
+	width: 80%;
+	background-color: white;
+}
+
+.timkiemsv-container .result-table th, .timkiemsv-container .result-table td, .timkiemsv-container table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.timkiemsv-container .result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+}
+
+.timkiemsv-container .result-table td {
+	text-align: center;
+	padding: 5px;
+}
+
+.timkiemsv-container .element tr:hover {
+	background-color: #00b3b3;
+}
+
+.timkiemsv-container .long {
+	width: 40%;
+}
+
+.timkiemsv-container .short {
+	width: 20%;
+}

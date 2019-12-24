@@ -1,0 +1,76 @@
+.xemlopdk-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.xemlopdk-container .title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.xemlopdk-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+.xemlopdk-container .div-search form {
+	height: 100%;
+	width: 100%;
+}
+
+.xemlopdk-container .div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.xemlopdk-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.xemlopdk-container .div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.xemlopdk-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.xemlopdk-container .result-table {
+	margin-top: 25px;
+	margin-left: 10%;
+	width: 80%;
+	background-color: white;
+}
+
+.xemlopdk-container .result-table th, .xemlopdk-container .result-table td, table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.xemlopdk-container .result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+}
+
+.xemlopdk-container .result-table td {
+	text-align: center;
+	padding: 5px;
+}
+
+.xemlopdk-container .element tr:hover {
+	background-color: #00b3b3;
+}
+
+.xemlopdk-container .long {
+	width: 40%;
+}
+
+.xemlopdk-container .short {
+	width: 15%;
+}

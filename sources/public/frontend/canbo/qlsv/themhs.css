@@ -1,0 +1,107 @@
+.themhs-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.themhs-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+
+.themhs-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+.themhs-container .div-search form {
+	height: 100%;
+}
+
+.themhs-container .div-search input {
+	width: 300px;
+	height: 29px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.themhs-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.themhs-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+
+.themhs-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.themhs-container .student-infor {
+	margin-left: 5px;
+}
+.themhs-container .student-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.themhs-container .student-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.themhs-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.themhs-container .text-field p, .themhs-container .text-field input {
+	float: left;
+}
+
+.themhs-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+
+.themhs-container .field-block-1 p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.themhs-container .field-block input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 60%;
+	float: left;
+}
+.themhs-container .field-block-1 input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.themhs-container .personal-infor {
+	margin-left: 20%;
+}
+
+.themhs-container .personal-infor .field-block-1 {
+	float:  left;
+	width: 50%;
+}
+
+.themhs-container .add-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.themhs-container .add-button:hover {
+	background-color: #00b3b3;
+}

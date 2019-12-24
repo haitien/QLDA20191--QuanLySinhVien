@@ -1,0 +1,81 @@
+.suahs-container {
+	min-height: 100%;
+	margin-left: 20px;
+}
+
+.suahs-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.suahs-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.suahs-container .student-infor {
+	margin-left: 5px;
+}
+.suahs-container .student-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.suahs-container .student-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.suahs-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.suahs-container .text-field p, .suahs-container .text-field input {
+	float: left;
+}
+
+.suahs-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+
+.suahs-container .field-block-1 p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.suahs-container .field-block input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 60%;
+	float: left;
+}
+.suahs-container .field-block-1 input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.suahs-container .personal-infor {
+	margin-left: 20%;
+}
+
+.suahs-container .personal-infor .field-block-1 {
+	float:  left;
+	width: 50%;
+}
+
+.suahs-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.suahs-container .edit-button:hover {
+	background-color: #00b3b3;
+}

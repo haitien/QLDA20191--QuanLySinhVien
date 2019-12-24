@@ -1,0 +1,60 @@
+.xemlop-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.xemlop-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.xemlop-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.xemlop-container .infor {
+	width: 100%;
+	margin-left: 10%;
+}
+
+.xemlop-container .infor .field-block {
+	float:  left;
+	width: 40%;
+}
+.xemlop-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.xemlop-container .text-field p, .xemlop-container .text-field input {
+	float: left;
+}
+
+.xemlop-container .field-block p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.xemlop-container .field-block .detail {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.xemlop-container .button a {
+	width: 100%;
+}
+
+.xemlop-container .regis-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+}
+
+.xemlop-container .regis-button:hover{
+	background-color: #00b3b3;
+}

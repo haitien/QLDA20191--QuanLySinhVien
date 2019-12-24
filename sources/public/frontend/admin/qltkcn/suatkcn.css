@@ -1,0 +1,63 @@
+.suatkcn-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.label {
+	font-size: 25px;
+	font-style: italic;
+}
+.suatkcn-container .user-infor {
+	margin-left: 5px;
+}
+.suatkcn-container .user-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.suatkcn-container .user-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.suatkcn-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.suatkcn-container .text-field p {
+	width: 32%;
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+.suatkcn-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+.suatkcn-container .field-block-1 input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.suatkcn-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.suatkcn-container .edit-button:hover {
+	background-color: #00b3b3;
+}

@@ -1,0 +1,58 @@
+.xemtkcn-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.label {
+	font-size: 25px;
+	font-style: italic;
+}
+.xemtkcn-container .user-infor {
+	margin-left: 5px;
+}
+.xemtkcn-container .user-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.xemtkcn-container .user-infor .field-block-1 {
+	float:  left;
+	width: 35%;
+	margin-left: 20px;
+}
+.xemtkcn-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.xemtkcn-container .text-field p {
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+.xemtkcn-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 5px;
+}
+
+.xemtkcn-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.xemtkcn-container .edit-button:hover {
+	background-color: #00b3b3;
+}

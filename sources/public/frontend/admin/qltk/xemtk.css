@@ -1,0 +1,68 @@
+.xemtk-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.xemtk-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.xemtk-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.xemtk-container .account-infor {
+	margin-left: 5px;
+}
+.xemtk-container .account-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.xemtk-container .account-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.xemtk-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.xemtk-container .text-field p {
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+.xemtk-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 5px;
+}
+
+.xemtk-container .button form, .xemtk-container .button a {
+	float: left;
+	width: 50%;
+	margin-top: 30px;
+}
+
+.xemtk-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 16%;
+	margin-bottom: 20px;
+	float: right;
+}
+.xemtk-container .del-button {
+	font-size: 16px;
+	height: 30px;
+	width: 16%;
+	margin-bottom: 20px;
+}
+
+.xemtk-container .edit-button:hover, .xemtk-container .del-button:hover {
+	background-color: #00b3b3;
+}

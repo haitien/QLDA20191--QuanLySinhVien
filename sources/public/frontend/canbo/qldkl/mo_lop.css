@@ -1,0 +1,58 @@
+.molop-container {
+	min-height: 100%;
+	margin-left: 20px;
+}
+
+.molop-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.molop-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.molop-container .infor {
+	width: 100%;
+	margin-left: 10%;
+}
+
+.molop-container .infor .field-block {
+	float:  left;
+	width: 40%;
+}
+.molop-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.molop-container .text-field p, .molop-container .text-field input {
+	float: left;
+}
+
+
+.molop-container .field-block p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.molop-container .field-block input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.molop-container .add-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.molop-container .add-button:hover {
+	background-color: #00b3b3;
+}

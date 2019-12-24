@@ -1,0 +1,68 @@
+body {
+	width: 1100px;
+	margin: auto;
+	font-size: 25px;
+	background-color: #ccc;
+}
+
+.container {
+	display: flex;
+	width: 450px;
+	height: 470px;
+	margin-left: 325px;
+	margin-top: 90px;
+	border-radius: 20px;
+	background-image: url("login.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+
+.div-form {
+	width: 300px;
+	height: 370px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: white;
+	align-self: center;
+}
+
+.header {
+	text-align: center;
+}
+
+form {
+	margin-top: 20px;
+}
+
+label {
+	margin-bottom: 20px;
+}
+
+input {
+	height: 25px;
+	width: 290px;
+}
+button {
+	height: 25px;
+	width: 295px;
+	margin-top: 60px;
+}
+
+button:hover {
+	background-color: #00b3b3;
+}
+
+.alert {
+	height: 40px;
+}
+
+.alert-danger {
+	font-size: 12px;
+	background-color: #f44336; 
+	margin-bottom: 0px; 
+	padding: 10px; 
+	color: white; 
+	border: 1px solid;
+	border-radius: 5px;
+}

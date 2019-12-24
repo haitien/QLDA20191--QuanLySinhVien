@@ -1,0 +1,59 @@
+.suatk-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.suatk-container .account-infor {
+	margin-left: 5px;
+}
+.suatk-container .account-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.suatk-container .account-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.suatk-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.suatk-container .text-field p, .suatk-container .text-field input {
+	float: left;
+}
+
+.suatk-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+
+.suatk-container .field-block-1 p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.suatk-container .field-block-1 input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+
+.suatk-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.suatk-container .edit-button:hover {
+	background-color: #00b3b3;
+}

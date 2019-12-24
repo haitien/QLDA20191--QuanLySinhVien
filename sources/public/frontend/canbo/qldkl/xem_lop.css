@@ -1,0 +1,68 @@
+.xemlop-container {
+	min-height: 100%;
+	margin-left: 20px;
+}
+
+.xemlop-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.xemlop-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.xemlop-container .infor {
+	width: 100%;
+	margin-left: 10%;
+}
+
+.xemlop-container .infor .field-block {
+	float:  left;
+	width: 40%;
+}
+.xemlop-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.xemlop-container .text-field p, .xemlop-container .text-field input {
+	float: left;
+}
+
+
+.xemlop-container .field-block p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.xemlop-container .field-block .detail {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.xemlop-container .button form, .xemlop-container .button a {
+	float: left;
+	width: 50%;
+}
+
+.xemlop-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	float: right;
+}
+.xemlop-container .del-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+}
+
+.xemlop-container .edit-button:hover, .xemlop-container .del-button:hover {
+	background-color: #00b3b3;
+}

@@ -1,0 +1,69 @@
+
+.xemdiem-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.xemdiem-container .title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.xemdiem-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+
+.xemdiem-container .div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.xemdiem-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.xemdiem-container .div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.xemdiem-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.xemdiem-container .result-table {
+	margin-top: 25px;
+	margin-left: 5px;
+	width: 98%;
+	background-color: white;
+}
+
+.xemdiem-container .result-table th, .xemdiem-container .result-table td, .xemdiem-container table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.xemdiem-container .result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+}
+
+.xemdiem-container .short {
+	width: 9%;
+}
+
+.xemdiem-container .long {
+	width: 28%;
+}
+
+.xemdiem-container .result-table td {
+	text-align: center;
+	padding: 5px;
+}

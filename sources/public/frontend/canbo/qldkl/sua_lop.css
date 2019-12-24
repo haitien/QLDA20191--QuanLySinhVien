@@ -1,0 +1,58 @@
+.sualop-container {
+	min-height: 100%;
+	margin-left: 20px;
+}
+
+.sualop-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.sualop-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.sualop-container .infor {
+	width: 100%;
+	margin-left: 10%;
+}
+
+.sualop-container .infor .field-block {
+	float:  left;
+	width: 40%;
+}
+.sualop-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.sualop-container .text-field p, .sualop-container .text-field input {
+	float: left;
+}
+
+
+.sualop-container .field-block p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.sualop-container .field-block input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+.sualop-container .add-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.sualop-container .add-button:hover {
+	background-color: #00b3b3;
+}

@@ -1,0 +1,76 @@
+.timkiemlop-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.timkiemlop-container .title {
+	font-size: 25px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+}
+
+.timkiemlop-container .div-search {
+	text-align: center;
+	height: 35px;
+}
+.timkiemlop-container .div-search form {
+	height: 100%;
+	width: 100%;
+}
+
+.timkiemlop-container .div-search input {
+	width: 300px;
+	height: 28px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.timkiemlop-container .div-search input::placeholder {
+	font-style: italic;
+}
+
+.timkiemlop-container .div-search select {
+	width: 80px;
+	height: 100%;
+}
+
+.timkiemlop-container .div-search button {
+	width: 60px;
+	height: 100%;
+}
+
+.timkiemlop-container .result-table {
+	margin-top: 25px;
+	margin-left: 10%;
+	width: 80%;
+	background-color: white;
+}
+
+.timkiemlop-container .result-table th, .timkiemlop-container .result-table td, .timkiemlop-container table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.timkiemlop-container .result-table th {
+	background-color: red;
+	color: #151c26;
+	text-align: center;
+	padding: 5px;
+}
+
+.timkiemlop-container .result-table td {
+	text-align: center;
+	padding: 5px;
+}
+
+.timkiemlop-container .element tr:hover {
+	background-color: #00b3b3;
+}
+
+.timkiemlop-container .long {
+	width: 40%;
+}
+
+.timkiemlop-container .short {
+	width: 15%;
+}

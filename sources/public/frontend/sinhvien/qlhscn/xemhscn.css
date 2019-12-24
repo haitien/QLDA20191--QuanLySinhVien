@@ -1,0 +1,70 @@
+
+.xemhscn-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.xemhscn-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.xemhscn-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.xemhscn-container .student-infor {
+	margin-left: 5px;
+}
+.xemhscn-container .student-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.xemhscn-container .student-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.xemhscn-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.xemhscn-container .text-field p {
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 5px;
+}
+
+.xemhscn-container .field-block p {
+ 	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+	margin-left: 5px;
+}
+
+
+.xemhscn-container .personal-infor {
+	margin-left: 20%;
+}
+
+.xemhscn-container .personal-infor .field-block-1 {
+	float:  left;
+	width: 50%;
+}
+
+
+.xemhscn-container .edit-button {
+ 	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+
+.xemhscn-container .edit-button:hover {
+	background-color: #00b3b3;
+}

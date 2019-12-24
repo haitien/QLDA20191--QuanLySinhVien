@@ -1,0 +1,77 @@
+.themtk-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+.title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.label {
+	font-size: 25px;
+	font-style: italic;
+}
+
+
+.themtk-container .title {
+	font-size: 30px;
+	margin-top: 55px;
+}
+.themtk-container .label {
+	font-size: 25px;
+	font-style: italic;
+}
+.themtk-container .account-infor {
+	margin-left: 5px;
+}
+.themtk-container .account-infor .field-block {
+	float:  left;
+	width: 20%;
+}
+
+
+.themtk-container .account-infor .field-block-1 {
+	float:  left;
+	width: 40%;
+}
+.themtk-container .text-field {
+	margin-left: 15px;
+	margin-bottom: 30px;
+	height: 40px;
+}
+.themtk-container .text-field p, .themtk-container .text-field input {
+	float: left;
+}
+
+.themtk-container .field-block p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: left;
+}
+
+.themtk-container .field-block-1 p {
+	width: 32%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.themtk-container .field-block-1 input {
+	margin-bottom: 20px;
+	height: 20px;
+	width: 200px;
+	float: left;
+}
+
+
+.themtk-container .edit-button {
+	font-size: 16px;
+	height: 30px;
+	width: 14%;
+	margin-bottom: 20px;
+	margin-left: 43%;
+	margin-right: 43%;
+}
+
+.themtk-container .edit-button:hover {
+	background-color: #00b3b3;
+}
+

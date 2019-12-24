@@ -1,0 +1,17 @@
+.qlddk-container {
+	min-height: 375px;
+	margin-left: 20px;
+}
+
+.qlddk-container form {
+ 	width: 50%;
+ 	float: left;
+ 	margin-top: 80px;
+ 	text-align: center;
+ }
+
+ .qlddk-container button {
+ 	width: 50%;
+ 	height: 40px;
+ 	font-size: 25px;
+ }
