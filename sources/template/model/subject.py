@@ -1,0 +1,4 @@
+class Subject(object):
+  pass
+
+
