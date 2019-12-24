@@ -17,3 +17,5 @@ class UserController(base_controller.BaseController):
         if password is None:
             return False
         return True
+    def logout(self):
+        pass
