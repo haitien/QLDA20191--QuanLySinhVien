@@ -10,7 +10,10 @@ class ThongTinCaNhan extends Model
     protected $primaryKey = 'maSV';
     public $incrementing = false;
     public $timestamps = false;
+public function suaThongTin(){
+	////
 
+}
     public function sinhvien() {
     	return $this->belongsTo('App\SinhVien','maSV','maSV');
     }
