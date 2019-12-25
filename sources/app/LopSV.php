@@ -8,6 +8,9 @@ class LopSV extends Model
 {
     protected $table = 'lopsv';
     public $timestamps = false;
+    public function xemTrangThai(){
+        ///
+    }
 
     public function sinhvien() {
     	return $this->hasMany('App\SinhVien','maLop','maLop');
