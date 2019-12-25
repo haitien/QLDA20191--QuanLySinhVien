@@ -8,7 +8,9 @@ class CTDaoTao extends Model
 {
     protected $table = 'ctdaotao';
     public $timestamps = false;
-
+public function timMahocPhan(){
+	////
+}
     public function lopsv() {
     	return $this->hasMany('App\LopSV','maCT','maLop');
     }
