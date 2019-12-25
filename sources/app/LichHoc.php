@@ -10,6 +10,9 @@ class LichHoc extends Model
     protected $primaryKey = 'maLop';
     public $incrementing = false;
     public $timestamps = false;
+    public function xemTKB(){
+        ///
+    }
 
     public function lophoc() {
     	return $this->belongsTo('App\LopHoc','maLop','maLop');
