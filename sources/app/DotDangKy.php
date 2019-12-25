@@ -14,7 +14,9 @@ class DotDangKy extends Model
     public function chophep() {
     	return $this->chophep;
     }
-
+public function timMahocPhan(){
+    ///
+}
     public function modk() {
     	return 
     }
