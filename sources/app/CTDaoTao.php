@@ -8,7 +8,7 @@ class CTDaoTao extends Model
 {
     protected $table = 'ctdaotao';
     public $timestamps = false;
-public function timMahocPhan(){
+public function xemCT(){
 	////
 }
     public function lopsv() {
