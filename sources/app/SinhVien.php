@@ -10,6 +10,9 @@ class SinhVien extends Model
     protected $primaryKey = 'maSV';
     public $incrementing = false;
     public $timestamps = false;
+    public function sinhvien(){
+        ///
+    }
     
     public function diem() {
     	return $this->hasMany('App\BangDiem','maSV','id');
