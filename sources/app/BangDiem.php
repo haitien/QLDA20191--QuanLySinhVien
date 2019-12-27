@@ -18,7 +18,7 @@ class BangDiem extends Model
     	return $this->belongsTo('App\LopHoc','maLop','maLop');
     }
     public function timMahocPhan(){
-        //
+        ///////
     }
     public function diemchu($diemqt, $diemck, $trongso) {
     	$diemchu = $diemqt*(1-$trongso) + $diemck*$trongso;
