@@ -10,6 +10,7 @@ class CTDaoTao extends Model
     public $timestamps = false;
 public function xemCT(){
 	////
+	////
 }
     public function lopsv() {
     	return $this->hasMany('App\LopSV','maCT','maLop');
